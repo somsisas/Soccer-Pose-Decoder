@@ -33,6 +33,6 @@
 
 ## Screenshots
 
-| Pose Detection | Real-Time Analysis | Model Training |
+| Ronaldo | Neymar | Haaland |
 |----------------|--------------------|----------------|
-| ![Pose Detection](screenshots/pose_detection.png) | ![Real-Time Analysis](screenshots/real_time.png) | ![Model Training](screenshots/model_training.png) |
+| ![Ronaldo](screenshots/CR7.png) | ![Neymar](screenshots/Ney.png) | ![Haaland](screenshots/Erling.png) |
